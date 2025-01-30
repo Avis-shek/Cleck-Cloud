@@ -1,0 +1,166 @@
+.body{
+margin: 0;
+padding: 0;
+font-family: 'Josefin Sans', sans-serif;
+z-index: 0;
+background-color: white;
+}
+
+
+.navbar{
+
+  margin-top: 20px;
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+
+.navbar-collapse{
+    margin-left: 200px;
+
+}
+
+.logo{
+  margin-left: 50px;
+}
+
+.category{
+
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
+  border-radius: 3px;
+  padding-right: 40px;
+  margin-right: 170px;
+}
+
+
+.search{
+
+
+
+  width: 430px;
+  margin-right: 250px;
+
+
+}
+
+.user{
+
+  margin-right: 10px;
+  margin-left:10px ;
+}
+
+.user:hover{
+
+opacity: 30%;
+}
+
+.heart{
+
+
+  margin-right: 10px;
+  margin-left:10px ;
+}
+
+.heart:hover{
+
+opacity: 30%;
+}
+
+
+
+.shopping-bag{
+
+
+  margin-right: 10px;
+}
+
+.shopping-bag:hover{
+
+opacity: 30%;
+}
+
+.icons{
+
+  margin-lect: 100px;
+}
+
+.second-nav{
+  margin-left: 200px;
+  font-size: 20px;
+
+}
+
+
+
+.nav-item:hover{
+  opacity: 30%;
+}
+
+
+.image-2{
+
+  margin-left: 300px;
+
+
+
+}
+
+.image-1{
+
+
+  border-color: lightgrey;
+
+  border-radius: 30px;
+
+
+}
+
+.banner-2{
+
+
+
+  border-radius: 20px;
+}
+
+
+.banner-content{
+  margin-top: -250px;
+  margin-left: 70px;
+ font-family: 'Josefin Sans', sans-serif;
+
+}
+
+
+.card-group{
+
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+}
+
+.card{
+
+    margin-left: 10px;
+  margin-right: 10px;
+
+
+}
+
+.category-icons{
+margin-top: 50px;
+margin-left: 450px;
+}
+
+.category-mini-icon{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.category-mini-title{
+    margin-left: 30px;
+
+}
