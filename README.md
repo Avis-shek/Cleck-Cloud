@@ -12,6 +12,14 @@
 
 ---
 
+<p align="center">
+  <img
+    src="docs/screenshots/%20cleck_cloud_banner.png"
+    alt="ShapeScript IDE Banner"
+    width="80%"
+  />
+</p>
+
 ## Overview
 
 **Cleck Cloud** is a full-stack, multi-vendor e-commerce ecosystem designed to connect customers with independent local traders through a single marketplace.
